@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of SPECalculator
+  hosts: all
+  tasks:
+    - name: Pull docker image
+      docker_image:
+        name: sinhadiksha99/Scientific_Calculator
+        source: pull
