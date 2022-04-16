@@ -16,7 +16,7 @@ public class Power {
 
     @Test
     public void power() {
-        assertTrue("testcase 3", 16.0 == main.calcpower(4, 2));
+        assertTrue("test_case 3", 16.0 == main.calcpower(4, 2));
         ;
     }
 }

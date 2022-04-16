@@ -16,7 +16,7 @@ public class Naturallog {
     @Test
     public void log()
     {
-        assertTrue("testcase 4", 0.6931471805599453 == main.calcnatlog(2.0));
+        assertTrue("test_case 4", 0.6931471805599453 == main.calcnatlog(2.0));
         ;
     }
 
