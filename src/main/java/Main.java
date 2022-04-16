@@ -35,7 +35,7 @@ public class Main {
                         Integer a;
                         System.out.println("Enter a number whose Factorial is to be calculated");
                         a=sc.nextInt();
-                        Integer op = calcfact(a);
+                        Integer op = calcFactorial(a);
                         System.out.println("Output is :" + op);
 
                         break;
@@ -43,7 +43,7 @@ public class Main {
                         Double y, b;
                         System.out.println("Enter a number whose Square Root is to be calculated");
                         y=sc.nextDouble();
-                        Double op1 = calcsqroot(y);
+                        Double op1 = calcSqroot(y);
                         System.out.println("Output is :" + op1);
 
 
@@ -55,7 +55,7 @@ public class Main {
                         z=sc.nextInt();
                         System.out.println("Enter power to be calculated");
                         b1=sc.nextInt();
-                        Double op2 = calcpower(z, b1);
+                        Double op2 = calcPower(z, b1);
                         System.out.println("Output is :" + op2);
 
 
@@ -64,7 +64,7 @@ public class Main {
                         Double c;
                         System.out.println("Enter a number whose Natural Log is to be calculated");
                         c=sc.nextDouble();
-                        Double op3 = calcnatlog(c);
+                        Double op3 = calcNaturallog(c);
                         System.out.println("Output is :" + op3);
 
 
@@ -89,7 +89,7 @@ public class Main {
 
     }
 
-    static Double calcnatlog(Double x) {
+    static Double calcNaturallog(Double x) {
 
         if(x<0){
             logger.info("[EXCEPTION - Natural Log] - Natural Log of negative number is not possible!");
@@ -103,7 +103,7 @@ public class Main {
 
         return op;
     }
-    static Integer calcfact(Integer x) {
+    static Integer calcFactorial(Integer x) {
 
         if(x<0){
             logger.info("[EXCEPTION - Factorial] - Factorial of negative number is not possible!");
@@ -121,14 +121,14 @@ public class Main {
         return op;
     }
 
-    static Double calcpower(Integer x, Integer b) {
+    static Double calcPower(Integer x, Integer b) {
         logger.info("[Power] - " + x + ", " + b);
         Double op = pow(x,b);
         logger.info("[RESULT - Power] - " + op);
         return op;
     }
 
-    static Double calcsqroot(Double x) {
+    static Double calcSqroot(Double x) {
 
         if(x<0){
             logger.info("[EXCEPTION - Square Root] - SQRT of negative number is not possible!");
