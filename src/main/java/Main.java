@@ -32,10 +32,10 @@ public class Main {
                 switch (num)
                 {
                     case 1:
-                        Integer x;
+                        Integer a;
                         System.out.println("Enter a number whose Factorial is to be calculated");
-                        x=sc.nextInt();
-                        Integer op = calcfact(x);
+                        a=sc.nextInt();
+                        Integer op = calcfact(a);
                         System.out.println("Output is :" + op);
 
                         break;
@@ -50,21 +50,21 @@ public class Main {
 
                         break;
                     case 3:
-                        Integer x2, b1;
+                        Integer z, b1;
                         System.out.println("Enter a number whose power is to be calculated");
-                        x2=sc.nextInt();
+                        z=sc.nextInt();
                         System.out.println("Enter power to be calculated");
                         b1=sc.nextInt();
-                        Double op2 = calcpower(x2, b1);
+                        Double op2 = calcpower(z, b1);
                         System.out.println("Output is :" + op2);
 
 
                         break;
                     case 4:
-                        Double x3;
+                        Double c;
                         System.out.println("Enter a number whose Natural Log is to be calculated");
-                        x3=sc.nextDouble();
-                        Double op3 = calcnatlog(x3);
+                        c=sc.nextDouble();
+                        Double op3 = calcnatlog(c);
                         System.out.println("Output is :" + op3);
 
 
