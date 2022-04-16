@@ -16,13 +16,13 @@ public class Naturallog {
     @Test
     public void log()
     {
-        assertTrue("test_case 4", 0.6931471805599453 == main.calcnatlog(2.0));
+        assertTrue("test_case 4", 0.6931471805599453 == main.calcNaturallog(2.0));
         ;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void logNegatve() {
         long f = -1;
-        main.calcnatlog(-1.0);
+        main.calcNaturallog(-1.0);
     }
 }

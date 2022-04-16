@@ -15,19 +15,19 @@ public class Factorial {
 
     @Test
     public void factOne() {
-        assertTrue("test_case 1", 24== main.calcfact(4));
+        assertTrue("test_case 1", 24== main.calcFactorial(4));
         ;
     }
 
     @Test
     public void factTwo() {
-        assertFalse("test_case 2", 24 == main.calcfact(7));
+        assertFalse("test_case 2", 24 == main.calcFactorial(7));
         ;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void factNegatve() {
         long f = -1;
-        main.calcfact(-1);
+        main.calcFactorial(-1);
     }
 }
