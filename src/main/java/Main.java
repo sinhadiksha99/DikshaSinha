@@ -14,7 +14,7 @@ public class Main {
     public static void main(String args[])
     {
 
-        Integer n;
+        Integer num;
 
         while(true){
             try{
@@ -23,13 +23,13 @@ public class Main {
 
 
                 try{
-                    n = sc.nextInt();
+                    num = sc.nextInt();
                 }catch (InputMismatchException error){
                     return;
                 }
 
 
-                switch (n)
+                switch (num)
                 {
                     case 1:
                         Integer x;
