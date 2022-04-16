@@ -15,13 +15,13 @@ public class Factorial {
 
     @Test
     public void factOne() {
-        assertTrue("test_case 1", 120== main.calcfact(5));
+        assertTrue("test_case 1", 24== main.calcfact(4));
         ;
     }
 
     @Test
     public void factTwo() {
-        assertFalse("test_case 2", 120 == main.calcfact(7));
+        assertFalse("test_case 2", 24 == main.calcfact(7));
         ;
     }
 
