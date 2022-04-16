@@ -40,10 +40,10 @@ public class Main {
 
                         break;
                     case 2:
-                        Double x1, b;
+                        Double y, b;
                         System.out.println("Enter a number whose Square Root is to be calculated");
-                        x1=sc.nextDouble();
-                        Double op1 = calcsqroot(x1);
+                        y=sc.nextDouble();
+                        Double op1 = calcsqroot(y);
                         System.out.println("Output is :" + op1);
 
 
