@@ -16,13 +16,13 @@ public class Squareroot {
     @Test
     public void sqrt()
     {
-        assertTrue("test_case 1", 5.0 == main.calcsqroot(25.0));
+        assertTrue("test_case 1", 5.0 == main.calcSqroot(25.0));
         ;
     }
 
     @Test(expected = IllegalArgumentException.class)
     public void sqrtNegatve() {
         long f = -1;
-        main.calcsqroot(-1.0);
+        main.calcSqroot(-1.0);
     }
 }
