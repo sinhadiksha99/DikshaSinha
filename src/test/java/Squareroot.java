@@ -16,7 +16,7 @@ public class Squareroot {
     @Test
     public void sqrt()
     {
-        assertTrue("test_case 1", 4.0 == main.calcsqroot(16.0));
+        assertTrue("test_case 1", 5.0 == main.calcsqroot(25.0));
         ;
     }
 
