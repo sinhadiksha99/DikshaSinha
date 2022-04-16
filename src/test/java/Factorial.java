@@ -21,7 +21,7 @@ public class Factorial {
 
     @Test
     public void factTwo() {
-        assertFalse("test_case 2", 120 == main.calcfact(6));
+        assertFalse("test_case 2", 120 == main.calcfact(7));
         ;
     }
 
