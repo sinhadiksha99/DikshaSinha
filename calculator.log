@@ -12,3 +12,65 @@
 17/Apr/2022:21:06:54 275 [Main.java] [INFO] Main [RESULT - Power] - 8.0
 17/Apr/2022:21:06:57 813 [Main.java] [INFO] Main [Natural Log] - 5.0
 17/Apr/2022:21:06:57 816 [Main.java] [INFO] Main [RESULT - Natural Log] - 1.6094379124341003
+17/Apr/2022:21:11:04 112 [Main.java] [INFO] Main [Natural Log] - 3.0
+17/Apr/2022:21:11:04 117 [Main.java] [INFO] Main [RESULT - Natural Log] - 1.0986122886681098
+17/Apr/2022:21:11:07 371 [Main.java] [INFO] Main [Square Root] - 1.0
+17/Apr/2022:21:11:07 373 [Main.java] [INFO] Main [RESULT - Square Root] - 1.0
+17/Apr/2022:21:11:33 416 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:11:33 421 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:11:37 445 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:11:37 448 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:11:41 140 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:11:41 142 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:11:42 866 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:11:42 867 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:11:43 959 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:11:43 961 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:11:46 597 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:11:46 598 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:11:48 558 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:11:48 559 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:11:52 917 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:11:52 918 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:11:54 294 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:11:54 295 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:11:55 591 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:11:55 592 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:11:56 664 [Main.java] [INFO] Main [Factorial] - 1
+17/Apr/2022:21:11:56 665 [Main.java] [INFO] Main [RESULT - Factorial] - 1
+17/Apr/2022:21:11:57 533 [Main.java] [INFO] Main [Square Root] - 4.0
+17/Apr/2022:21:11:57 535 [Main.java] [INFO] Main [RESULT - Square Root] - 2.0
+17/Apr/2022:21:12:17 351 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:17 355 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:19 290 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:19 294 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:12:20 631 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:20 632 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:22 083 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:22 085 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:12:23 106 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:23 107 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:24 572 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:24 573 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:12:25 505 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:25 506 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:26 976 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:26 978 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:12:27 984 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:27 985 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:29 394 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:29 394 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
+17/Apr/2022:21:12:31 787 [Main.java] [INFO] Main [Square Root] - 1.0
+17/Apr/2022:21:12:31 789 [Main.java] [INFO] Main [RESULT - Square Root] - 1.0
+17/Apr/2022:21:12:33 107 [Main.java] [INFO] Main [Square Root] - 3.0
+17/Apr/2022:21:12:33 108 [Main.java] [INFO] Main [RESULT - Square Root] - 1.7320508075688772
+17/Apr/2022:21:12:33 996 [Main.java] [INFO] Main [Natural Log] - 5.0
+17/Apr/2022:21:12:33 998 [Main.java] [INFO] Main [RESULT - Natural Log] - 1.6094379124341003
+17/Apr/2022:21:12:37 806 [Main.java] [INFO] Main [Power] - 4, 51
+17/Apr/2022:21:12:37 807 [Main.java] [INFO] Main [RESULT - Power] - 5.0706024009129176E30
+17/Apr/2022:21:12:40 260 [Main.java] [INFO] Main [Factorial] - 2
+17/Apr/2022:21:12:40 261 [Main.java] [INFO] Main [RESULT - Factorial] - 2
+17/Apr/2022:21:12:42 604 [Main.java] [INFO] Main [Power] - 4, 51
+17/Apr/2022:21:12:42 605 [Main.java] [INFO] Main [RESULT - Power] - 5.0706024009129176E30
+17/Apr/2022:21:12:48 235 [Main.java] [INFO] Main [Power] - 4, 5
+17/Apr/2022:21:12:48 237 [Main.java] [INFO] Main [RESULT - Power] - 1024.0
