@@ -1,4 +1,4 @@
 FROM openjdk:8
 COPY ./target/SPE_Calculator-1.0-SNAPSHOT.jar ./
 WORKDIR ./
-CMD ["java", "-cp", "SPE_Calculator-1.0-SNAPSHOT-jar-with-dependencies", "Main"]
+CMD ["java", "-cp", "SPE_Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar", "Main"]
